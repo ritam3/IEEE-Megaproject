@@ -1,1 +1,1 @@
-
+This project shows the serial communication between AVR and Python . In this project an ultrasonic sensor is rotated with the help of servo motor and distances at various angles are noted . The distance and angle readings are obtained by python program to plot it by using turtle . The microcontroller used is AT90USB1287 and a usb to ttl converter is used to print the values through board to serial monitor .
